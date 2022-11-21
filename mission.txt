@@ -1,0 +1,3 @@
+My goal is to update this app to a more futuristic UI/UX for creators and users of the next century.
+  1. Looking into adding a hybrid database (possibly MongoDB)
+  2. Looking to add metamask wallet for purchasing with crypto 
